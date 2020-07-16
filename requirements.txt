@@ -1,0 +1,4 @@
+requests
+selenium
+pandas
+parallel_sync
